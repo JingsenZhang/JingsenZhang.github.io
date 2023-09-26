@@ -21,3 +21,5 @@ His major research area is Recommender System, especially Explainable Recommenda
 2023-09 We have released the second version of "A Survey on LLM-based Autonomous Agents".
 
 2023-01 One paper in WWW 2023 has been accepted.
+
+2022-09 Join in GSAI-RUC as a Ph.D student.
