@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Experiences"
+title: ""
 permalink: /experiences/
 author_profile: true
 ---
 
 
-## Education
+# Education
 - Ph.D., Renmin University of China
 
   2022 - present, Gaoling School of Artificial Intelligence.
@@ -23,7 +23,7 @@ author_profile: true
 
   2016 - 2020, Information Science and Technology College.
 
-## Experiences
+# Experiences
 - Research Intern, Noah's Ark Lab, Huawei
 
   2022.07 - 2022.10, Recommend and Search Lab, with [Quanyu Dai](https://scholar.google.com/citations?user=Q1GGOPoAAAAJ&hl=zh-CN&oi=ao).
