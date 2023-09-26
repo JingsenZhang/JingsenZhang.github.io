@@ -53,6 +53,6 @@ Wayne Xin Zhao, Yupeng Hou, Xingyu Pan, Chen Yang, Zeyu Zhang, Zihan Lin, **Jing
 
 **[SIGIR 2021] Counterfactual data-augmented sequential recommendation**
 <br/>
-Zhenlei Wang, **Jingsen Zhang***, Hongteng Xu, Xu Chen, Yongfeng Zhang, Wayne Xin Zhao, Ji-Rong Wen.
+Zhenlei Wang*, **Jingsen Zhang***, Hongteng Xu, Xu Chen, Yongfeng Zhang, Wayne Xin Zhao, Ji-Rong Wen.
 
 * Equal Contribution
