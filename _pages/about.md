@@ -14,12 +14,12 @@ His major research area is Recommender System, especially Explainable Recommenda
 
 
 ## What's new
-2023-09 Our explainable recommendation dataset "REASONER" got accepted by NeurIPS 2023 Datasets and Benchmarks Track.
+2023-09 Our explainable recommendation dataset "**REASONER**" got accepted by **NeurIPS 2023 Datasets and Benchmarks Track**.
 
-2023-09 We have released the second version of "RecAgent".
+2023-09 We have released a paper of "**RecAgent**".
 
-2023-09 We have released the second version of "A Survey on LLM-based Autonomous Agents".
+2023-09 We have released a paper of "**A Survey on LLM-based Autonomous Agents**".
 
-2023-01 One paper in WWW 2023 has been accepted.
+2023-01 One paper in **WWW 2023** has been accepted.
 
-2022-09 Join in GSAI-RUC as a Ph.D student.
+2022-09 Join in **GSAI-RUC** as a Ph.D student.
