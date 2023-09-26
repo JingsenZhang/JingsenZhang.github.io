@@ -9,7 +9,7 @@ author_profile: true
 ## 2023
 **[NeurIPS 2023, Datasets and Benchmarks Track] REASONER: An Explainable Recommendation Dataset with Comprehensive Labeling Ground Truths**
 <br/>
-Xu Chen, **Jingsen Zhang***, Lei Wang*, Quanyu Dai, Zhenhua Dong, Ruiming Tang, Rui Zhang, Li Chen, Xin Zhao, Ji-Rong Wen.
+Xu Chen, **Jingsen Zhang**\*, Lei Wang\*, Quanyu Dai, Zhenhua Dong, Ruiming Tang, Rui Zhang, Li Chen, Xin Zhao, Ji-Rong Wen.
 
  
 **[Preprint] A Survey on Large Language Model based Autonomous Agents**
@@ -53,6 +53,6 @@ Wayne Xin Zhao, Yupeng Hou, Xingyu Pan, Chen Yang, Zeyu Zhang, Zihan Lin, **Jing
 
 **[SIGIR 2021] Counterfactual data-augmented sequential recommendation**
 <br/>
-Zhenlei Wang*, **Jingsen Zhang***, Hongteng Xu, Xu Chen, Yongfeng Zhang, Wayne Xin Zhao, Ji-Rong Wen.
+Zhenlei Wang\*, **Jingsen Zhang**\*, Hongteng Xu, Xu Chen, Yongfeng Zhang, Wayne Xin Zhao, Ji-Rong Wen.
 <br/>
 * Equal Contribution
