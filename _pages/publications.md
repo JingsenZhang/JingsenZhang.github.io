@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Preprint
-
 
 ## 2023
 **[NeurIPS 2023, Datasets and Benchmarks Track] REASONER: An Explainable Recommendation Dataset with Comprehensive Labeling Ground Truths**
