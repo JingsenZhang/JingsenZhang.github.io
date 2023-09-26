@@ -55,4 +55,4 @@ Wayne Xin Zhao, Yupeng Hou, Xingyu Pan, Chen Yang, Zeyu Zhang, Zihan Lin, **Jing
 <br/>
 Zhenlei Wang\*, **Jingsen Zhang**\*, Hongteng Xu, Xu Chen, Yongfeng Zhang, Wayne Xin Zhao, Ji-Rong Wen.
 <br/>
-* Equal Contribution
+\* Equal Contribution
