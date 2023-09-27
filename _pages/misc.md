@@ -29,6 +29,6 @@ author_profile: true
 - 2023.01 Twenty-fifth birthday.
 
 <div  align="center">
-  <img src="../images/misc1.jpg" width = "600" height = "500" alt="misc1" align=center /> 
+  <img src="../images/misc1.jpg" width = "600" height = "470" alt="misc1" align=center /> 
 </div>
 <br/>
