@@ -7,7 +7,10 @@ main:
     url: /experiences/    
 
   - title: "Awards"
-    url: /awards/    
+    url: /awards/  
+
+  - title: "Misc"
+  url: /misc/  
     
   - title: "Contact"
     url: /contact/
