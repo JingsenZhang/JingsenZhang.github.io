@@ -5,7 +5,7 @@ permalink: /misc/
 author_profile: true
 ---
 
-- 2023.09 RecAgent project completed.
+- 2023.09 RecAgent project completed. (Huixian Restaurant)
 
 <div  align="center">
   <img src="../images/misc4.jpg" width = "600" height = "400" alt="misc4" align=center />
@@ -19,7 +19,7 @@ author_profile: true
 </div>
 <br/>
 
-- 2023.03 Laboratory team building. ("Season 6" restaurant)
+- 2023.03 Laboratory team building. ("Season 6" Restaurant)
 
 <div  align="center">
   <img src="../images/misc2.jpg" width = "600" height = "400" alt="misc2" align=center />
