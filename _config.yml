@@ -184,6 +184,9 @@ collections:
   awards:
     output: true
     permalink: /:collection/:path/
+  misc:
+    output: true
+    permalink: /:collection/:path/
   contact:
     output: true
     permalink: /:collection/:path/
