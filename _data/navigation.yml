@@ -10,7 +10,7 @@ main:
     url: /awards/  
 
   - title: "Misc"
-  url: /misc/  
+    url: /misc/  
     
   - title: "Contact"
     url: /contact/
