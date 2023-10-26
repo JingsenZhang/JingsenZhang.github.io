@@ -8,7 +8,7 @@ author_profile: true
 - 2023.10 CNCC. (Shenyang, China)
 
 <div  align="center">
-  <img src="../images/misc5.jpeg" width = "600" height = "400" alt="misc5" align=center />
+  <img src="../images/misc5.jpeg" width = "600" height = "430" alt="misc5" align=center />
 </div>
 <br/>
 
