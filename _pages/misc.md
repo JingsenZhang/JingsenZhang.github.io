@@ -5,6 +5,13 @@ permalink: /misc/
 author_profile: true
 ---
 
+- 2023.10 CNCC. (Shenyang, China)
+
+<div  align="center">
+  <img src="../images/misc5.jpg" width = "600" height = "400" alt="misc4" align=center />
+</div>
+<br/>
+
 - 2023.09 RecAgent project completed. (Huixian Restaurant)
 
 <div  align="center">
