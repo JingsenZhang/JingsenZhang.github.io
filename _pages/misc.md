@@ -5,6 +5,13 @@ permalink: /misc/
 author_profile: true
 ---
 
+- 2023.11 Universal Studio Beijing.
+
+<div  align="center">
+  <img src="../images/misc6.jpg" width = "600" height = "440" alt="misc6" align=center />
+</div>
+<br/>
+
 - 2023.10 CNCC. (Shenyang, China)
 
 <div  align="center">
