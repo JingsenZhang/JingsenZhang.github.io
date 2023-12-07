@@ -14,7 +14,7 @@ His major research area is Recommender System, especially Explainable Recommenda
 
 
 ## What's new
-2023-11 Our paper won the Best Paper Honorable Mention Award at SIGIR-AP 2023.
+2023-11 Our paper won the **Best Paper Honorable Mention Award** at SIGIR-AP 2023.
 
 2023-09 Our explainable recommendation dataset "**REASONER**" got accepted by **NeurIPS 2023 Datasets and Benchmarks Track**.
 
