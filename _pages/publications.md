@@ -6,6 +6,12 @@ author_profile: true
 ---
 
 
+## 2024
+**[ICASSP 2024] Active Explainable Recommendation with Limited Labeling Budget**
+<br/>
+**Jingsen Zhang**, Xiaohe Bo, Chenxi Wang, Quanyu Dai, Zhenhua Dong, Ruiming Tang, Xu Chen.
+
+
 ## 2023
 **[NeurIPS 2023, Datasets and Benchmarks Track] REASONER: An Explainable Recommendation Dataset with Comprehensive Labeling Ground Truths**
 <br/>
