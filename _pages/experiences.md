@@ -30,5 +30,5 @@ author_profile: true
 
 - Research Intern, Baidu
 
-  2021.06 - 2021.12, Search Strategy Department, with [Jiashu Zhao](https://scholar.google.com/citations?user=9vsMVz8AAAAJ&hl=zh-CN&oi=ao).
+  2021.06 - 2021.12, Search Strategy Department, with [Long Xia](https://scholar.google.com/citations?user=NRwerBAAAAAJ&hl=zh-CN&oi=ao) and [Jiashu Zhao](https://scholar.google.com/citations?user=9vsMVz8AAAAJ&hl=zh-CN&oi=ao).
 
