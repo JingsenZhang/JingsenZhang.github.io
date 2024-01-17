@@ -7,7 +7,7 @@ author_profile: true
 - 2024.01 Twenty-sixth birthday.
 
 <div  align="center">
-  <img src="../images/misc7.jpg" width = "600" height = "485" alt="misc7" align=center /> 
+  <img src="../images/misc7.jpg" width = "500" height = "530" alt="misc7" align=center /> 
 </div>
 <br/>
 
