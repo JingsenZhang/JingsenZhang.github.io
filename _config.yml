@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jingsen Zhang 张景森"
   avatar           : "profile.png"
-  bio              : "Ph.D Student of GSAI, RUC"
+  bio              : "Ph.D Student of GSAI, RUC.  zhangjingsen [at] ruc.edu.cn"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=gCRR0RYAAAAJ&hl=zh-CN"
-  email            : "zhangjingsen@ruc.edu.cn"
+  # email            : "zhangjingsen@ruc.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -187,12 +187,13 @@ collections:
   misc:
     output: true
     permalink: /:collection/:path/
-  contact:
-    output: true
-    permalink: /:collection/:path/
   cv:
     output: true 
     permalink: /:collection/:path/
+  # contact:
+  #   output: true
+  #   permalink: /:collection/:path/
+
 
 
 # Defaults
