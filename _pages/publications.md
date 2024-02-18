@@ -19,7 +19,7 @@ Lei Wang, **Jingsen Zhang**, Hao Yang, Zhiyuan Chen, Jiakai Tang, Zeyu Zhang, Xu
 <a href="https://arxiv.org/pdf/2306.02552.pdf">[Paper]</a> <a href="https://github.com/RUC-GSAI/YuLan-Rec">[Code]</a>
 
 ## 2024
-**[ICASSP 2024] Active Explainable Recommendation with Limited Labeling Budget**
+**[ICASSP 2024] Active Explainable Recommendation with Limited Labeling Budgets**
 <br/>
 **Jingsen Zhang**, Xiaohe Bo, Chenxi Wang, Quanyu Dai, Zhenhua Dong, Ruiming Tang, Xu Chen.
 <br/>
