@@ -12,7 +12,7 @@ Lei Wang, Chen Ma, Xueyang Feng, Zeyu Zhang, Hao Yang, **Jingsen Zhang**, Zhiyua
 <a href="https://arxiv.org/pdf/2308.11432.pdf%EF%BC%89">[Paper]</a> <a href="https://github.com/Paitesanshi/LLM-Agent-Survey">[Code]</a>
 
 
-**When LLM based Agent Meets User Behavior Analysis: A Novel User Simulation Paradigm**
+**User Behavior Simulation with Large Language Model based Agents**
 <br/>
 Lei Wang, **Jingsen Zhang**, Hao Yang, Zhiyuan Chen, Jiakai Tang, Zeyu Zhang, Xu Chen, Yankai Lin, Ruihua Song, Wayne Xin Zhao, Jun Xu, Zhicheng Dou, Jun Wang, Ji-Rong Wen.
 <br/>
