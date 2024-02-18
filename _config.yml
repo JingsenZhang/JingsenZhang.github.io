@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jingsen Zhang 张景森"
   avatar           : "profile.png"
-  bio              : "Ph.D Student of GSAI, RUC.  zhangjingsen [at] ruc.edu.cn"
+  bio              : "Ph.D Student of GSAI, RUC"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
@@ -187,12 +187,12 @@ collections:
   misc:
     output: true
     permalink: /:collection/:path/
+  contact:
+    output: true
+    permalink: /:collection/:path/
   cv:
     output: true 
     permalink: /:collection/:path/
-  # contact:
-  #   output: true
-  #   permalink: /:collection/:path/
 
 
 
