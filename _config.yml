@@ -190,7 +190,7 @@ collections:
   contact:
     output: true
     permalink: /:collection/:path/
-  CV:
+  cv:
     output: true
     permalink: /:collection/:path/
 
