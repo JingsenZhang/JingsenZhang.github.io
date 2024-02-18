@@ -10,7 +10,8 @@ redirect_from:
 
 Jingsen Zhang is a second year Ph.D student at [Gaoling School of Artificial Intelligence, Renmin University of China](http://ai.ruc.edu.cn/), supervised by Prof. [Xu Chen](http://xu-chen.com).
 He obtained M.E. at School of Information, Renmin University of China, supervised by Prof. [Wayne Xin Zhao](http://playbigdata.ruc.edu.cn/batmanfly/).
-His major research area is Recommender System, especially Explainable Recommendation and Causality-based Recommendation.
+
+His major research area is Recommender Systems, especially Explainable Recommendation. Recently, he tries to conduct research related to large language models.
 
 
 ## What's new
