@@ -11,13 +11,13 @@ author_profile: true
 
   2022 - present, Gaoling School of Artificial Intelligence.
 
-  Advisor: [Xu Chen](http://xu-chen.com/).
+  Advisor: [Xu Chen](http://xu-chen.com/), [AI ENGINE Lab](https://www.ai-engine-lab.com/).
 
 - M.E., Renmin University of China
 
   2020 - 2022, School of Information.
 
-  Advisor: [Wayne Xin Zhao](http://playbigdata.ruc.edu.cn/batmanfly/), [RUC AIBOX](http://aibox.ruc.edu.cn/)
+  Advisor: [Wayne Xin Zhao](http://playbigdata.ruc.edu.cn/batmanfly/), [RUC AIBOX](http://aibox.ruc.edu.cn/).
 
 - B.E., Dalian Maritime University
 
