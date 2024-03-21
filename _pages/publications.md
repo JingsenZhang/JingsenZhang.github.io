@@ -5,13 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 ## Preprint
-**A Survey on Large Language Model based Autonomous Agents**
-<br/>
-Lei Wang, Chen Ma, Xueyang Feng, Zeyu Zhang, Hao Yang, **Jingsen Zhang**, Zhiyuan Chen, Jiakai Tang, Xu Chen, Yankai Lin, Wayne Xin Zhao, Zhewei Wei, Ji-Rong Wen.
-<br/>
-<a href="https://arxiv.org/pdf/2308.11432.pdf%EF%BC%89">[Paper]</a> <a href="https://github.com/Paitesanshi/LLM-Agent-Survey">[Code]</a>
-
-
 **User Behavior Simulation with Large Language Model based Agents**
 <br/>
 Lei Wang, **Jingsen Zhang**, Hao Yang, Zhiyuan Chen, Jiakai Tang, Zeyu Zhang, Xu Chen, Yankai Lin, Ruihua Song, Wayne Xin Zhao, Jun Xu, Zhicheng Dou, Jun Wang, Ji-Rong Wen.
@@ -19,6 +12,13 @@ Lei Wang, **Jingsen Zhang**, Hao Yang, Zhiyuan Chen, Jiakai Tang, Zeyu Zhang, Xu
 <a href="https://arxiv.org/pdf/2306.02552.pdf">[Paper]</a> <a href="https://github.com/RUC-GSAI/YuLan-Rec">[Code]</a>
 
 ## 2024
+**[FCS] A Survey on Large Language Model based Autonomous Agents**
+<br/>
+Lei Wang, Chen Ma, Xueyang Feng, Zeyu Zhang, Hao Yang, **Jingsen Zhang**, Zhiyuan Chen, Jiakai Tang, Xu Chen, Yankai Lin, Wayne Xin Zhao, Zhewei Wei, Ji-Rong Wen.
+<br/>
+<a href="https://arxiv.org/pdf/2308.11432.pdf%EF%BC%89">[Paper]</a> <a href="https://github.com/Paitesanshi/LLM-Agent-Survey">[Code]</a>
+
+
 **[ICASSP 2024] Active Explainable Recommendation with Limited Labeling Budgets**
 <br/>
 **Jingsen Zhang**, Xiaohe Bo, Chenxi Wang, Quanyu Dai, Zhenhua Dong, Ruiming Tang, Xu Chen.
