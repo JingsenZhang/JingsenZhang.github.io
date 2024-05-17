@@ -14,7 +14,7 @@ Lei Wang, **Jingsen Zhang**, Hao Yang, Zhiyuan Chen, Jiakai Tang, Zeyu Zhang, Xu
 ## 2024
 **[KDD 2024] Natural Language Explainable Recommendation with Robustness Enhancement**
 <br/>
-Jingsen Zhang, Jiakai Tang, Xu Chen, Wenhui Yu, Lantao Hu, Peng Jiang, Han Li.
+**Jingsen Zhang**, Jiakai Tang, Xu Chen, Wenhui Yu, Lantao Hu, Peng Jiang, Han Li.
 <br/>
 <a href="">[Paper]</a> <a href="">[Code]</a>
 
