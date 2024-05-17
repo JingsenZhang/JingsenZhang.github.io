@@ -15,6 +15,8 @@ His major research area is Recommender Systems, especially Explainable Recommend
 
 
 ## What's new
+2024-05 One paper in **KDD 2024** has been accepted.
+
 2023-12 One paper in **ICASSP 2024** has been accepted.
 
 2023-09 Our explainable recommendation dataset "**REASONER**" got accepted by **NeurIPS 2023 Datasets and Benchmarks Track**.
@@ -29,5 +31,5 @@ His major research area is Recommender Systems, especially Explainable Recommend
 
 ## Academic Services
 - Reviewer
-  - Conference: KDD 2024
+  - Conference: KDD 2024, NeurIPS 2024 (Datasets and Benchmarks Track) 
   - Journal: TOIS
