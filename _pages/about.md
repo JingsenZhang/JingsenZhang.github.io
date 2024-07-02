@@ -31,5 +31,5 @@ His major research area is Recommender Systems, especially Explainable Recommend
 
 ## Academic Services
 - Reviewer
-  - Conference: KDD 2024, NeurIPS 2024 (Datasets and Benchmarks Track) 
+  - Conference: KDD 2024, NeurIPS 2024
   - Journal: TOIS
