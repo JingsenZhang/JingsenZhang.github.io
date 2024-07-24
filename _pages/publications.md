@@ -49,14 +49,14 @@ Xu Chen, **Jingsen Zhang**\*, Lei Wang\*, Quanyu Dai, Zhenhua Dong, Ruiming Tang
 <br/>
 Jiakai Tang, Shiqi Shen, Zhipeng Wang, Zhi Gong, **Jingsen Zhang**, and Xu Chen.
 <br/>
-<a href="https://dl.acm.org/doi/pdf/10.1145/3604915.3608770">[Paper]</a> <a href="https://dl.acm.org/doi/pdf/10.1145/3604915.3608770">[Project]</a>
+<a href="https://dl.acm.org/doi/pdf/10.1145/3604915.3608770">[Paper]</a> 
 
 ## 2022
 **[TKDE 2022] Data Augmented Sequential Recommendation based on Counterfactual Thinking**
 <br/>
 Xu Chen, Zhenlei Wang, Hongteng Xu, **Jingsen Zhang**, Yongfeng Zhang, Wayne Xin Zhao, Ji-Rong Wen.
 <br/>
-<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9950302">[Paper]</a> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9950302">[Project]</a>
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9950302">[Paper]</a> 
 
 **[CIKM 2022, Resource Track] RecBole 2.0: Towards a More Up-to-Date Recommendation Library.**
 <br/>
@@ -78,6 +78,6 @@ Wayne Xin Zhao, Yupeng Hou, Xingyu Pan, Chen Yang, Zeyu Zhang, Zihan Lin, **Jing
 <br/>
 Zhenlei Wang\*, **Jingsen Zhang**\*, Hongteng Xu, Xu Chen, Yongfeng Zhang, Wayne Xin Zhao, Ji-Rong Wen.
 <br/>
-<a href="https://dl.acm.org/doi/pdf/10.1145/3404835.3462855">[Paper]</a> <a href="https://dl.acm.org/doi/pdf/10.1145/3404835.3462855">[Project]</a>
+<a href="https://dl.acm.org/doi/pdf/10.1145/3404835.3462855">[Paper]</a> 
 <br/>
 \* Equal Contribution
