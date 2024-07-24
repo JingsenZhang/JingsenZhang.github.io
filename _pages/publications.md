@@ -16,7 +16,7 @@ Lei Wang, **Jingsen Zhang**, Hao Yang, Zhiyuan Chen, Jiakai Tang, Zeyu Zhang, Xu
 <br/>
 **Jingsen Zhang**, Jiakai Tang, Xu Chen, Wenhui Yu, Lantao Hu, Peng Jiang, Han Li.
 <br/>
-<a href="">[Paper]</a> <!-- <a href="">[Code]</a> -->
+<a href="">[Paper]</a> <!-- <a href="">[Code]</a> --> <a href="">[Project]</a>
 
 **[FCS] A Survey on Large Language Model based Autonomous Agents**
 <br/>
@@ -30,7 +30,7 @@ Lei Wang, Chen Ma, Xueyang Feng, Zeyu Zhang, Hao Yang, **Jingsen Zhang**, Zhiyua
 <br/>
 ***Oral.***
 <br/>
-<a href="https://jingsenzhang.github.io/publications/">[Paper]</a> <!-- <a href="https://github.com/JingsenZhang/ActiveEXR">[Code]</a> -->
+<a href="https://jingsenzhang.github.io/publications/">[Paper]</a> <!-- <a href="https://github.com/JingsenZhang/ActiveEXR">[Code]</a> --> <a href="https://jingsenzhang.github.io/publications/">[Project]</a>
 
 ## 2023
 **[NeurIPS 2023, Datasets and Benchmarks Track] REASONER: An Explainable Recommendation Dataset with Comprehensive Labeling Ground Truths**
@@ -43,20 +43,20 @@ Xu Chen, **Jingsen Zhang**\*, Lei Wang\*, Quanyu Dai, Zhenhua Dong, Ruiming Tang
 <br/>
 **Jingsen Zhang**, Xu Chen, Jiakai Tang, Weiqi Shao, Quanyu Dai, Zhenhua Dong, Rui Zhang.
 <br/>
-<a href="https://dl.acm.org/doi/pdf/10.1145/3543507.3583260">[Paper]</a> <!-- <a href="https://github.com/JingsenZhang/USER">[Code]</a> -->
+<a href="https://dl.acm.org/doi/pdf/10.1145/3543507.3583260">[Paper]</a> <!-- <a href="https://github.com/JingsenZhang/USER">[Code]</a> --> <a href="https://dl.acm.org/doi/pdf/10.1145/3543507.3583260">[Project]</a>
 
 **[RecSys 2023] When Fairness meets Bias: a Debiased Framework for Fairness aware Top-N Recommendation**
 <br/>
 Jiakai Tang, Shiqi Shen, Zhipeng Wang, Zhi Gong, **Jingsen Zhang**, and Xu Chen.
 <br/>
-<a href="https://dl.acm.org/doi/pdf/10.1145/3604915.3608770">[Paper]</a>
+<a href="https://dl.acm.org/doi/pdf/10.1145/3604915.3608770">[Paper]</a> <a href="https://dl.acm.org/doi/pdf/10.1145/3604915.3608770">[Project]</a>
 
 ## 2022
 **[TKDE 2022] Data Augmented Sequential Recommendation based on Counterfactual Thinking**
 <br/>
 Xu Chen, Zhenlei Wang, Hongteng Xu, **Jingsen Zhang**, Yongfeng Zhang, Wayne Xin Zhao, Ji-Rong Wen.
 <br/>
-<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9950302">[Paper]</a> 
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9950302">[Paper]</a> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9950302">[Project]</a>
 
 **[CIKM 2022, Resource Track] RecBole 2.0: Towards a More Up-to-Date Recommendation Library.**
 <br/>
@@ -71,13 +71,13 @@ Wayne Xin Zhao, Yupeng Hou, Xingyu Pan, Chen Yang, Zeyu Zhang, Zihan Lin, **Jing
 <br/>
 **Jingsen Zhang**, Xu Chen, Wayne Xin Zhao.
 <br/>
-<a href="https://dl.acm.org/doi/pdf/10.1145/3459637.3482070">[Paper]</a> <!-- <a href="https://github.com/JingsenZhang/CACF">[Code]</a> -->
+<a href="https://dl.acm.org/doi/pdf/10.1145/3459637.3482070">[Paper]</a> <a href="https://github.com/JingsenZhang/CACF">[Project]</a>
 
 
 **[SIGIR 2021] Counterfactual data-augmented sequential recommendation**
 <br/>
 Zhenlei Wang\*, **Jingsen Zhang**\*, Hongteng Xu, Xu Chen, Yongfeng Zhang, Wayne Xin Zhao, Ji-Rong Wen.
 <br/>
-<a href="https://dl.acm.org/doi/pdf/10.1145/3404835.3462855">[Paper]</a>
+<a href="https://dl.acm.org/doi/pdf/10.1145/3404835.3462855">[Paper]</a> <a href="https://dl.acm.org/doi/pdf/10.1145/3404835.3462855">[Project]</a>
 <br/>
 \* Equal Contribution
