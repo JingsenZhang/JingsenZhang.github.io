@@ -12,17 +12,17 @@ Lei Wang, **Jingsen Zhang**, Hao Yang, Zhiyuan Chen, Jiakai Tang, Zeyu Zhang, Xu
 <a href="https://arxiv.org/pdf/2306.02552.pdf">[Paper]</a> <a href="https://github.com/RUC-GSAI/YuLan-Rec">[Project]</a>
 
 ## 2024
-**[KDD 2024] Natural Language Explainable Recommendation with Robustness Enhancement**
-<br/>
-**Jingsen Zhang**, Jiakai Tang, Xu Chen, Wenhui Yu, Lantao Hu, Peng Jiang, Han Li.
-<br/>
-<a href="">[Paper]</a> <!-- <a href="">[Code]</a> --> <a href="">[Project]</a>
-
 **[FCS] A Survey on Large Language Model based Autonomous Agents**
 <br/>
 Lei Wang, Chen Ma, Xueyang Feng, Zeyu Zhang, Hao Yang, **Jingsen Zhang**, Zhiyuan Chen, Jiakai Tang, Xu Chen, Yankai Lin, Wayne Xin Zhao, Zhewei Wei, Ji-Rong Wen.
 <br/>
 <a href="https://arxiv.org/pdf/2308.11432.pdf%EF%BC%89">[Paper]</a> <a href="https://github.com/Paitesanshi/LLM-Agent-Survey">[Project]</a>
+
+**[KDD 2024] Natural Language Explainable Recommendation with Robustness Enhancement**
+<br/>
+**Jingsen Zhang**, Jiakai Tang, Xu Chen, Wenhui Yu, Lantao Hu, Peng Jiang, Han Li.
+<br/>
+<a href="">[Paper]</a> <!-- <a href="">[Code]</a> --> <a href="">[Project]</a>
 
 **[ICASSP 2024] Active Explainable Recommendation with Limited Labeling Budgets**
 <br/>
@@ -50,12 +50,6 @@ Jiakai Tang, Shiqi Shen, Zhipeng Wang, Zhi Gong, **Jingsen Zhang**, and Xu Chen.
 <a href="https://dl.acm.org/doi/pdf/10.1145/3604915.3608770">[Paper]</a> 
 
 ## 2022
-**[TKDE 2022] Data Augmented Sequential Recommendation based on Counterfactual Thinking**
-<br/>
-Xu Chen, Zhenlei Wang, Hongteng Xu, **Jingsen Zhang**, Yongfeng Zhang, Wayne Xin Zhao, Ji-Rong Wen.
-<br/>
-<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9950302">[Paper]</a> 
-
 **[CIKM 2022, Resource Track] RecBole 2.0: Towards a More Up-to-Date Recommendation Library.**
 <br/>
 Wayne Xin Zhao, Yupeng Hou, Xingyu Pan, Chen Yang, Zeyu Zhang, Zihan Lin, **Jingsen Zhang**, Shuqing Bian, Jiakai Tang, Wenqi Sun, Yushuo Chen, Lanling Xu, Gaowei Zhang, Zhen Tian, Changxin Tian, Shanlei Mu, Xinyan Fan, Xu Chen and Ji-Rong Wen.
@@ -63,6 +57,12 @@ Wayne Xin Zhao, Yupeng Hou, Xingyu Pan, Chen Yang, Zeyu Zhang, Zihan Lin, **Jing
 ***Best Resource Paper Runner Up.***
 <br/>
 <a href="https://arxiv.org/pdf/2206.07351.pdf">[Paper]</a> <a href="https://github.com/RUCAIBox/RecBole2.0">[Project]</a>
+
+**[TKDE 2022] Data Augmented Sequential Recommendation based on Counterfactual Thinking**
+<br/>
+Xu Chen, Zhenlei Wang, Hongteng Xu, **Jingsen Zhang**, Yongfeng Zhang, Wayne Xin Zhao, Ji-Rong Wen.
+<br/>
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9950302">[Paper]</a> 
 
 ## 2021
 **[CIKM 2021, Short Paper] Causally attentive collaborative filtering**
