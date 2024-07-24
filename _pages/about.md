@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## About
 
 Jingsen Zhang is a second year Ph.D student at [Gaoling School of Artificial Intelligence, Renmin University of China](http://ai.ruc.edu.cn/), supervised by Prof. [Xu Chen](http://xu-chen.com).
 He obtained M.E. at School of Information, Renmin University of China, supervised by Prof. [Wayne Xin Zhao](http://playbigdata.ruc.edu.cn/batmanfly/).
