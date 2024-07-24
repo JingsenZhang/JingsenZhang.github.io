@@ -28,8 +28,6 @@ Lei Wang, Chen Ma, Xueyang Feng, Zeyu Zhang, Hao Yang, **Jingsen Zhang**, Zhiyua
 <br/>
 **Jingsen Zhang**, Xiaohe Bo, Chenxi Wang, Quanyu Dai, Zhenhua Dong, Ruiming Tang, Xu Chen.
 <br/>
-<!-- ***Oral.*** 
-<br/>  -->
 <a href="https://jingsenzhang.github.io/publications/">[Paper]</a> <!-- <a href="https://github.com/JingsenZhang/ActiveEXR">[Code]</a> --> <a href="https://jingsenzhang.github.io/publications/">[Project]</a>
 
 ## 2023
