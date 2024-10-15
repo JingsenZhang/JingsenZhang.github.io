@@ -4,6 +4,27 @@ title: "Activity"
 permalink: /misc/
 author_profile: true
 ---
+- 2024.10 RLChina. (Guangzhou, China)
+
+<div  align="center">
+  <img src="../images/misc10.jpg" width = "380" height = "450" alt="misc7" align=center /> 
+</div>
+<br/>
+
+- 2024.09 Team building. (Xiangshan Mountain)
+
+<div  align="center">
+  <img src="../images/misc9.jpg" width = "380" height = "450" alt="misc7" align=center /> 
+</div>
+<br/>
+
+- 2024.08 KDD'24 (Barcelona, ​​Spain)
+
+<div  align="center">
+  <img src="../images/misc8.jpg" width = "380" height = "450" alt="misc7" align=center /> 
+</div>
+<br/>
+
 - 2024.01 Twenty-sixth birthday.
 
 <div  align="center">
@@ -26,7 +47,7 @@ author_profile: true
 </div>
 <br/>
 
-- 2023.09 RecAgent project completed. (Huixian Restaurant)
+- 2023.09 RecAgent project completed. 
 
 <div  align="center">
   <img src="../images/misc4.jpg" width = "600" height = "400" alt="misc4" align=center />
@@ -40,7 +61,7 @@ author_profile: true
 </div>
 <br/>
 
-- 2023.03 Laboratory team building. ("Season 6" Restaurant)
+- 2023.03 Team building. 
 
 <div  align="center">
   <img src="../images/misc2.jpg" width = "600" height = "400" alt="misc2" align=center />
