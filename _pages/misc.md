@@ -7,21 +7,21 @@ author_profile: true
 - 2024.10 RLChina. (Guangzhou, China)
 
 <div  align="center">
-  <img src="../images/misc10.jpg" width = "380" height = "450" alt="misc7" align=center /> 
+  <img src="../images/misc10.jpg" width = "500" height = "400" alt="misc7" align=center /> 
 </div>
 <br/>
 
 - 2024.09 Team building. (Xiangshan Mountain)
 
 <div  align="center">
-  <img src="../images/misc9.jpg" width = "380" height = "450" alt="misc7" align=center /> 
+  <img src="../images/misc9.jpg" width = "500" height = "400" alt="misc7" align=center /> 
 </div>
 <br/>
 
 - 2024.08 KDD'24 (Barcelona, ​​Spain)
 
 <div  align="center">
-  <img src="../images/misc8.jpg" width = "380" height = "450" alt="misc7" align=center /> 
+  <img src="../images/misc8.jpg" width = "500" height = "400" alt="misc7" align=center /> 
 </div>
 <br/>
 
