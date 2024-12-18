@@ -4,13 +4,13 @@ title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
-## Preprint
-**User Behavior Simulation with Large Language Model based Agents**
+
+## 2024
+**[TOIS] User Behavior Simulation with Large Language Model based Agents**
 <br/>
 Lei Wang, **Jingsen Zhang**, Hao Yang, Zhiyuan Chen, Jiakai Tang, Zeyu Zhang, Xu Chen, Yankai Lin, Ruihua Song, Wayne Xin Zhao, Jun Xu, Zhicheng Dou, Jun Wang, Ji-Rong Wen.
 <br/>
 
-## 2024
 **[FCS] A Survey on Large Language Model based Autonomous Agents**
 <br/>
 Lei Wang, Chen Ma, Xueyang Feng, Zeyu Zhang, Hao Yang, **Jingsen Zhang**, Zhiyuan Chen, Jiakai Tang, Xu Chen, Yankai Lin, Wayne Xin Zhao, Zhewei Wei, Ji-Rong Wen.
