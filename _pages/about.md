@@ -16,13 +16,13 @@ His major research area is Recommender Systems, especially Explainable Recommend
 
 
 ## What's new
+2024-12 The paper of "**RecAgent**" has been accepted by **TOIS**.
+
 2024-05 One paper in **KDD 2024** has been accepted.
 
 2023-12 One paper in **ICASSP 2024** has been accepted.
 
 2023-09 Our explainable recommendation dataset "**REASONER**" got accepted by **NeurIPS 2023 Datasets and Benchmarks Track**.
-
-2023-09 We have released a paper of "**RecAgent**".
 
 2023-09 We have released a paper of "**A Survey on LLM-based Autonomous Agents**".
 
