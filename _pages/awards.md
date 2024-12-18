@@ -4,6 +4,7 @@ title: "Selected Awards"
 permalink: /awards/
 author_profile: true
 ---
+- National Scholarship for Doctoral Students, 2024
 - Student Travel Grant, KDD, 2024.
 - Outstanding Innovative Talents Cultivation Funded Programs of Renmin University of China <br>
   (中国人民大学拔尖创新人才资助计划), 2024.
