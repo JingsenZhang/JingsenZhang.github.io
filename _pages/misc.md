@@ -7,14 +7,14 @@ author_profile: true
 - 2025.01 Twenty-seventh birthday.
 
 <div  align="center">
-  <img src="../images/misc11.jpg" width = "600" height = "485" alt="misc1" align=center /> 
+  <img src="../images/misc11.jpg" width = "400" height = "470" alt="misc1" align=center /> 
 </div>
 <br/>
 
 - 2024.10 RLChina. (Guangzhou, China)
 
 <div  align="center">
-  <img src="../images/misc10.jpg" width = "550" height = "400" alt="misc7" align=center /> 
+  <img src="../images/misc10.jpg" width = "590" height = "400" alt="misc7" align=center /> 
 </div>
 <br/>
 
@@ -78,6 +78,6 @@ author_profile: true
 - 2023.01 Twenty-fifth birthday.
 
 <div  align="center">
-  <img src="../images/misc1.jpg" width = "600" height = "485" alt="misc1" align=center /> 
+  <img src="../images/misc1.jpg" width = "470" height = "400" alt="misc1" align=center /> 
 </div>
 <br/>
