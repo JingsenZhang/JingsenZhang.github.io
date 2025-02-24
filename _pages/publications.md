@@ -5,11 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2025
-**Enhancing Recommendation Explanations through User-Centric Refinement**
+**[Preprint] Enhancing Recommendation Explanations through User-Centric Refinement**
 <br/>
 **Jingsen Zhang**, Zihang Tian, Xueyang Feng, Xu Chen
 <br/>
-Preprint.
 
 ## 2024
 **[TOIS] User Behavior Simulation with Large Language Model based Agents**
