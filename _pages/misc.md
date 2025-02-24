@@ -4,6 +4,13 @@ title: "Activity"
 permalink: /misc/
 author_profile: true
 ---
+- 2025.01 Twenty-seventh birthday.
+
+<div  align="center">
+  <img src="../images/misc11.jpg" width = "600" height = "485" alt="misc1" align=center /> 
+</div>
+<br/>
+
 - 2024.10 RLChina. (Guangzhou, China)
 
 <div  align="center">
