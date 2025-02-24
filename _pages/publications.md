@@ -4,6 +4,12 @@ title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
+## 2025
+**Enhancing Recommendation Explanations through User-Centric Refinement**
+<br/>
+**Jingsen Zhang**, Zihang Tian, Xueyang Feng, Xu Chen
+<br/>
+Preprint.
 
 ## 2024
 **[TOIS] User Behavior Simulation with Large Language Model based Agents**
@@ -27,14 +33,14 @@ Lei Wang, Chen Ma, Xueyang Feng, Zeyu Zhang, Hao Yang, **Jingsen Zhang**, Zhiyua
 <br/>
 
 ## 2023
-**[NeurIPS 2023, Datasets and Benchmarks Track] REASONER: An Explainable Recommendation Dataset with Comprehensive Labeling Ground Truths**
-<br/>
-Xu Chen, **Jingsen Zhang**\*, Lei Wang\*, Quanyu Dai, Zhenhua Dong, Ruiming Tang, Rui Zhang, Li Chen, Xin Zhao, Ji-Rong Wen.
-<br/>
-
 **[WWW 2023] Recommendation with Causality enhanced Natural Language Explanations**
 <br/>
 **Jingsen Zhang**, Xu Chen, Jiakai Tang, Weiqi Shao, Quanyu Dai, Zhenhua Dong, Rui Zhang.
+<br/>
+
+**[NeurIPS 2023, Datasets and Benchmarks Track] REASONER: An Explainable Recommendation Dataset with Comprehensive Labeling Ground Truths**
+<br/>
+Xu Chen, **Jingsen Zhang**\*, Lei Wang\*, Quanyu Dai, Zhenhua Dong, Ruiming Tang, Rui Zhang, Li Chen, Xin Zhao, Ji-Rong Wen.
 <br/>
 
 **[RecSys 2023] When Fairness meets Bias: a Debiased Framework for Fairness aware Top-N Recommendation**
