@@ -31,6 +31,6 @@ His major research area is Recommender Systems, especially Explainable Recommend
 2022-09 Join in **GSAI-RUC** as a Ph.D student.
 
 ## Academic Services
-- Reviewer
-  - Conference: KDD 2024, NeurIPS 2024
+- Reviewer/PC Member
+  - Conference: KDD'24, NeurIPS'24, RecSys'25
   - Journal: TOIS, TKDD
