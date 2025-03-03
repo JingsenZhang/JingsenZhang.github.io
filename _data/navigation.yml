@@ -9,8 +9,8 @@ main:
   - title: "Awards"
     url: /awards/  
 
-  - title: "Misc"
-    url: /misc/  
+  # - title: "Misc"
+  #   url: /misc/  
 
   - title: "CV"
     url: /cv/
