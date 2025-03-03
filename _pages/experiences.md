@@ -24,9 +24,15 @@ author_profile: true
   2016 - 2020, Software Engineering, Information Science and Technology College.
 
 # Experiences
-- Research Intern, Noah's Ark Lab, Huawei
+- Research Intern, Huawei
 
-  2022.07 - 2022.10, Recommend and Search Lab, with [Quanyu Dai](https://scholar.google.com/citations?user=Q1GGOPoAAAAJ&hl=zh-CN&oi=ao).
+  2025.02 - now, Huawei Cloud, with [Chong Chen]([https://scholar.google.com/citations?user=Q1GGOPoAAAAJ&hl=zh-CN&oi=ao](https://chenchongthu.github.io/)).
+
+  Work on LLM-based Agent.
+  
+- Research Intern, Huawei
+
+  2022.07 - 2022.10, Noah's Ark Lab, with [Quanyu Dai](https://scholar.google.com/citations?user=Q1GGOPoAAAAJ&hl=zh-CN&oi=ao).
 
   Work on Generative Explainable Recommendation. 
 
