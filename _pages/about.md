@@ -33,4 +33,4 @@ His major research area is Recommender Systems, especially Explainable Recommend
 ## Academic Services
 - Reviewer/PC Member
   - Conference: KDD'24, NeurIPS'24, RecSys'25
-  - Journal: TOIS, TKDD
+  - Journal: TOIS, TKDD, TORS
