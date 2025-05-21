@@ -14,6 +14,8 @@ I obtained M.E. at School of Information, Renmin University of China, supervised
 
 My major research area is Recommender Systems, especially Explainable Recommendation. Recently, he is exploring the field of Large Language Model-based Agents.
 
+<span style="color: red;"><strong><em>Note:</em></strong> I’m actively exploring job opportunities in both academia and industry, with graduation expected in June 2026. Feel free to reach out if you're interested. I’d love to chat!</span>
+
 ***Note:** I’m actively exploring job opportunities in both academia and industry, with graduation expected in June 2026. Feel free to reach out if you're interested. I’d love to chat!*
 
 
