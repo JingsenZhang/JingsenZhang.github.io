@@ -9,10 +9,12 @@ redirect_from:
 ---
 ## About
 
-Jingsen Zhang is a third year Ph.D student at [Gaoling School of Artificial Intelligence, Renmin University of China](http://ai.ruc.edu.cn/), supervised by Prof. [Xu Chen](http://xu-chen.com).
-He obtained M.E. at School of Information, Renmin University of China, supervised by Prof. [Wayne Xin Zhao](http://playbigdata.ruc.edu.cn/batmanfly/).
+I am a third year Ph.D student at [Gaoling School of Artificial Intelligence, Renmin University of China](http://ai.ruc.edu.cn/), supervised by Prof. [Xu Chen](http://xu-chen.com).
+I obtained M.E. at School of Information, Renmin University of China, supervised by Prof. [Wayne Xin Zhao](http://playbigdata.ruc.edu.cn/batmanfly/).
 
-His major research area is Recommender Systems, especially Explainable Recommendation. Recently, he is exploring the field of Large Language Model-based Agents.
+My major research area is Recommender Systems, especially Explainable Recommendation. Recently, he is exploring the field of Large Language Model-based Agents.
+
+Note: I’m actively exploring job opportunities in both academia and industry, with graduation expected in June 2026. Feel free to reach out if you're interested. I’d love to chat!
 
 
 ## What's new
