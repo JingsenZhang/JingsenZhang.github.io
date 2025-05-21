@@ -16,8 +16,6 @@ My major research area is Recommender Systems, especially Explainable Recommenda
 
 <span style="color: red;"><em><strong>Note:</strong> I’m actively exploring job opportunities in both academia and industry, with graduation expected in June 2026. Feel free to reach out if you're interested. I’d love to chat!</em></span>
 
-***Note:** I’m actively exploring job opportunities in both academia and industry, with graduation expected in June 2026. Feel free to reach out if you're interested. I’d love to chat!*
-
 
 ## What's new
 2024-12 The paper of "**RecAgent**" has been accepted by **TOIS**.
