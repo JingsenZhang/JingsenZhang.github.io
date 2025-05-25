@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2025
+**[ACL 2025, Findings, CCF A] Expectation Confirmation Preference Optimization for Multi-Turn Conversational Recommendation
+Agent**
+<br/>
+Xueyang Feng, **Jingsen Zhang**, Jiakai Tang, Wei Li, Guohao Cai, Xu Chen, Quanyu Dai, Yue Zhu, Zhenhua Dong.
+<br/>
+
 **[Preprint] Enhancing Recommendation Explanations through User-Centric Refinement**
 <br/>
 **Jingsen Zhang**, Zihang Tian, Xueyang Feng, Xu Chen
