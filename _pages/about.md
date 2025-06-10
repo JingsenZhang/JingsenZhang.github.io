@@ -17,6 +17,8 @@ My major research interests lie in Recommender Systems, with a particular focus 
 
 
 ## What's new
+2025-05 One collaborative paper in **ACL 2025** has been accepted.
+
 2024-12 The paper of "**RecAgent**" has been accepted by **TOIS**.
 
 2024-05 One paper in **KDD 2024** has been accepted.
