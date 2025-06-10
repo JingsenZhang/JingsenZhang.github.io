@@ -9,12 +9,11 @@ redirect_from:
 ---
 ## About
 
-I am a third year Ph.D student at [Gaoling School of Artificial Intelligence, Renmin University of China](http://ai.ruc.edu.cn/), supervised by Prof. [Xu Chen](http://xu-chen.com).
-I obtained M.E. at School of Information, Renmin University of China, supervised by Prof. [Wayne Xin Zhao](http://playbigdata.ruc.edu.cn/batmanfly/).
+I am currently a third-year Ph.D. student at [Gaoling School of Artificial Intelligence, Renmin University of China](http://ai.ruc.edu.cn/), supervised by Prof. [Xu Chen](http://xu-chen.com). Prior to this, I earned my M.E. at the School of Information, Renmin University of China, supervised by Prof. [Wayne Xin Zhao](http://playbigdata.ruc.edu.cn/batmanfly/).
 
-My major research area is Recommender Systems, especially Explainable Recommendation. Recently, he is exploring the field of Large Language Model-based Agents.
+My major research interests lie in Recommender Systems, with a particular focus on Explainable Recommendation. Recently, I have been exploring the field of Large Language Model-based Agents.
 
-<span style="color: red;"><em><strong>Note:</strong> I’m actively exploring job opportunities in both academia and industry, with graduation expected in June 2026. Feel free to reach out if you're interested. I’d love to chat!</em></span>
+<span style="color: red;"><em><strong>Note:</strong> I am actively seeking job opportunities in both academia and industry, with my expected graduation in June 2026. Feel free to reach out if you’re interested — I’d be happy to chat!</em></span>
 
 
 ## What's new
