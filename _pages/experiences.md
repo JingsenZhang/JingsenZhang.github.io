@@ -9,19 +9,19 @@ author_profile: true
 # Education
 - Ph.D., Renmin University of China
 
-  2022 - 2026(expected), Artificial Intelligence, Gaoling School of Artificial Intelligence.
+  2022.09 - 2026.06(expected), Artificial Intelligence, Gaoling School of Artificial Intelligence.
 
   Advisor: [Xu Chen](http://xu-chen.com/), [AI ENGINE Lab](https://www.ai-engine-lab.com/).
 
 - M.E., Renmin University of China
 
-  2020 - 2022, Software Engineering, School of Information.
+  2020.09 - 2022.06, Software Engineering, School of Information.
 
   Advisor: [Wayne Xin Zhao](http://playbigdata.ruc.edu.cn/batmanfly/), [RUC AIBOX](http://aibox.ruc.edu.cn/).
 
 - B.E., Dalian Maritime University
 
-  2016 - 2020, Software Engineering, Information Science and Technology College.
+  2016.09 - 2020.06, Software Engineering, Information Science and Technology College.
 
 # Experiences
 - Research Intern, Huawei
