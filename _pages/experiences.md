@@ -26,7 +26,7 @@ author_profile: true
 # Experiences
 - Research Intern, Huawei
 
-  2025.02 - now, Huawei Cloud, with [Chong Chen](https://chenchongthu.github.io/).
+  2025.03 - 2025.07, Huawei Cloud, with [Chong Chen](https://chenchongthu.github.io/).
 
   Work on LLM-based Agent.
   
