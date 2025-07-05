@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: ""
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-## About
-
 I am currently a third-year Ph.D. student at [Gaoling School of Artificial Intelligence, Renmin University of China](http://ai.ruc.edu.cn/), supervised by Prof. [Xu Chen](http://xu-chen.com). Prior to this, I earned my M.E. at the School of Information, Renmin University of China, supervised by Prof. [Wayne Xin Zhao](http://playbigdata.ruc.edu.cn/batmanfly/).
 
 My major research interests lie in Recommender Systems, with a particular focus on Explainable Recommendation. Recently, I have been exploring the field of Large Language Model-based Agents.
