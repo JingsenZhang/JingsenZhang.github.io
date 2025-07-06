@@ -16,6 +16,12 @@ Xueyang Feng, **Jingsen Zhang**, Jiakai Tang, Wei Li, Guohao Cai, Xu Chen, Quany
 **Jingsen Zhang**, Zihang Tian, Xueyang Feng, Xu Chen
 <br/>
 
+**[Preprint] HF4Rec: Human-Like Feedback-Driven Optimization Framework for Explainable Recommendation**
+<br/>
+Jiakai Tang, **Jingsen Zhang**, Zihang Tian, Xueyang Feng, Lei Wang, Xu Chen
+<br/>
+
+
 ## 2024
 **[TOIS, CCF A] User Behavior Simulation with Large Language Model based Agents**
 <br/>
