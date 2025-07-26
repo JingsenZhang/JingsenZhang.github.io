@@ -11,14 +11,14 @@ Agent**
 Xueyang Feng, **Jingsen Zhang**, Jiakai Tang, Wei Li, Guohao Cai, Xu Chen, Quanyu Dai, Yue Zhu, Zhenhua Dong.
 <br/>
 
+**[TOIS, CCF A] HF4Rec: Human-Like Feedback-Driven Optimization Framework for Explainable Recommendation**
+<br/>
+Jiakai Tang, **Jingsen Zhang**, Zihang Tian, Xueyang Feng, Lei Wang, Xu Chen
+<br/>
+
 **[Preprint] Enhancing Recommendation Explanations through User-Centric Refinement**
 <br/>
 **Jingsen Zhang**, Zihang Tian, Xueyang Feng, Xu Chen
-<br/>
-
-**[Preprint] HF4Rec: Human-Like Feedback-Driven Optimization Framework for Explainable Recommendation**
-<br/>
-Jiakai Tang, **Jingsen Zhang**, Zihang Tian, Xueyang Feng, Lei Wang, Xu Chen
 <br/>
 
 
