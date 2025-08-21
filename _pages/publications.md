@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2025
+**[EMNLP 2025, Findings, CCF B] Enhancing Recommendation Explanations through User-Centric Refinement**
+<br/>
+**Jingsen Zhang**, Zihang Tian, Xueyang Feng, Xu Chen, Chong Chen
+<br/>
+
 **[ACL 2025, Findings, CCF A] Expectation Confirmation Preference Optimization for Multi-Turn Conversational Recommendation
 Agent**
 <br/>
@@ -15,12 +20,6 @@ Xueyang Feng, **Jingsen Zhang**, Jiakai Tang, Wei Li, Guohao Cai, Xu Chen, Quany
 <br/>
 Jiakai Tang, **Jingsen Zhang**, Zihang Tian, Xueyang Feng, Lei Wang, Xu Chen
 <br/>
-
-**[Preprint] Enhancing Recommendation Explanations through User-Centric Refinement**
-<br/>
-**Jingsen Zhang**, Zihang Tian, Xueyang Feng, Xu Chen
-<br/>
-
 
 ## 2024
 **[TOIS, CCF A] User Behavior Simulation with Large Language Model based Agents**
